@@ -16,6 +16,7 @@ Meet our talented team:
 We are utilizing a range of technologies to build this project, including:
 - [Java]
 - [Python]
+- [Data analysis]
 - [Tool or Library 1]
 - [Tool or Library 2]
 
