@@ -7,15 +7,15 @@ Welcome to our project! This project aims to [brief description of what the proj
 
 ## Team Members
 Meet our talented team:
-- **Undine**: [Backend Developer,]
-- **Helerin**: [Role in the team, e.g., Frontend Developer, Backend Developer, Designer]
-- **Baiba**: [Role in the team, e.g., Frontend Developer, Backend Developer, Tester]
-- **Anete**: [Team lead, Backend Developer,]
+- **Undine**: [Backend Developer]
+- **Helerin**: [Backend Developer]
+- **Baiba**: [Backend Developer]
+- **Anete**: [Team lead, Backend Developer]
 
 ## Technologies Used
 We are utilizing a range of technologies to build this project, including:
-- [Language or Framework 1]
-- [Language or Framework 2]
+- [Java]
+- [Python]
 - [Tool or Library 1]
 - [Tool or Library 2]
 
